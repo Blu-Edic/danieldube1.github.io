@@ -12,7 +12,7 @@ img{border:none;}
 .scrollToTop:hover{background-position:13px -50px;text-decoration:none;outline:none;}
 #header{float:left;display:inline;width:100%;background-color:#313b3d;}
 .menu_area{float:left;display:inline;width:100%;}
-.navbar-default .navbar-brand{color:#fff;font-size:25px;font-weight:bold;margin-top:15px;}
+.navbar-default .navbar-brand{color:#fff;font-size:20px;font-weight:bold;margin-top:15px;}
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{background-color:transparent;color:#fff;}
 .navbar-default{background-color:#313b3d;border-color:transparent;}
 #navbar{overflow-x:hidden;}
